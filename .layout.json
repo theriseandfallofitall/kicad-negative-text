@@ -1,0 +1,18 @@
+{
+  "rootFiles": [
+    ".gitattributes",
+    "LICENSE",
+    "__init__.py",
+    "action_negative_text.py",
+    "negative_text.py"
+  ],
+  "docsSubdirs": [
+    "research",
+    "archive",
+    "images"
+  ],
+  "untrackedOk": [
+    "docs/research/",
+    "docs/archive/"
+  ]
+}
